@@ -14,7 +14,7 @@ Are you a data mentor for GovHack and have some stuff to contribute? Please feel
 
 ### Links to content:
 
-Some hints & things to think about: [dealing with science data](https://github.com/jesserobertson/govhack-science/blob/master/other-hints.md#science-data), and [handling geospatial information](https://github.com/jesserobertson/govhack-science/blob/master/other-hints.md#geospatial-data)
+Some hints & things to think about: [dealing with science data](https://github.com/jesserobertson/govhack-science/blob/master/hints.md#science-data), and [handling geospatial information](https://github.com/jesserobertson/govhack-science/blob/master/hints.md#geospatial-data)
 
 [Sciency data sources](https://github.com/jesserobertson/govhack-science/blob/master/data-sources.md) to find more data
 
