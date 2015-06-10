@@ -1,4 +1,4 @@
-# govhack-science - Info, ideas and links to public government science datasets
+# govhack-science
 
-This is a list of some info for
+_Info, ideas and links to public government science datasets_
 
