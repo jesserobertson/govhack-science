@@ -1,6 +1,6 @@
 # Science-flavoured data sources
 
-The big kahuna: [**Reserch Data Australia**](https://researchdata.ands.org.au/) is an index of most of the research data that is publically available from Australian institutions.
+The big kahuna: [**Reserch Data Australia**](https://researchdata.ands.org.au/) is an index of most of the research data that is publically available from Australian institutions. Just make sure you're mostly using government data (sources like GA, CSIRO etc are ok, universities not so much).
 
 ## Data portals
 
@@ -21,4 +21,6 @@ There is an API which can be used to access the catalog content, [see here](http
 
 ## Others
 
-- [**Geoscience Australia's list of web services**]() - have an abundance of geological data, including topography, gravity, magnetics, geological maps, plus some ha etc etc. These are all generally behind Open Geospatial Consortium-compliant web services, so you can easily slurp then into whatever GIS software you might be using
+- [**Geoscience Australia's list of web services**]() - have an abundance of geological data, including topography, gravity, magnetics, geological maps, plus some ha etc etc. These are all generally behind Open Geospatial Consortium-compliant web services, so you can easily slurp then into whatever GIS software you might be using ([QGIS](http://www.qgis.org/en/site/) is an excellent free & open-source option here).
+
+- 
