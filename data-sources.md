@@ -6,7 +6,7 @@ Data portals can quickly give you access to a range of data sets, usually by sea
 
 - [**Integrated Marine Observing System**](https://imos.aodn.org.au/imos123/home) - data portal for all marine data available from universities, DSTO, CSIRO and the IMOS system itself. Treasure trove of info: includes salinity, oxygen, temperature etc for oceans, radar data, AUV stuff etc.
 
-- [**Atlas of Living Australia**](http://ala.org.au) - contains a massive amount of biodiversity data collated by [Australian scientific communities](http://www.ala.org.au/about-the-atlas/atlas-background/atlas-partners/partner-profiles/) and [citizen scientists](http://www.ala.org.au/get-involved/citizen-science/). Tons og geospatially located species occurences, info on those species, apis for uploading data etc etc etc.
+- [**Atlas of Living Australia**](http://ala.org.au) - contains a massive amount of biodiversity data collated by [Australian scientific communities](http://www.ala.org.au/about-the-atlas/atlas-background/atlas-partners/partner-profiles/) and [citizen scientists](http://www.ala.org.au/get-involved/citizen-science/). Tons of geospatially located species occurences, info on those species, apis for uploading data etc etc etc.
 
 - [**AuScope Earth Data Portal**](http://portal.auscope.org) - contains a huge variety of Australia-wide geospatial and geoscientific datasets from the CSIRO, Geoscience Australia, the state Geological Surveys and several Australian universities. If you're interested in accessing the API's, a how-to for the [mine location/mineral occurrence data is here](https://twiki.auscope.org/wiki/CoreLibrary/ERMLGovHackOerview) and the [borehole data here](https://twiki.auscope.org/wiki/CoreLibrary/NVCLGovHackOverview).
 
@@ -27,7 +27,7 @@ There is an API which can be used to access the catalog content, [see here](http
 
 ## Others
 
-- [**Geoscience Australia's list of web services**](http://www.ga.gov.au/data-pubs/web-services/ga-web-services) - have an abundance of geological data, including topography, gravity, magnetics, geological maps, plus some ha etc etc. These are all generally behind Open Geospatial Consortium-compliant web services, so you can easily slurp then into whatever GIS software you might be using ([QGIS](http://www.qgis.org/en/site/) is an excellent free & open-source option here).
+- [**Geoscience Australia's list of web services**](http://www.ga.gov.au/data-pubs/web-services/ga-web-services) - have an abundance of geological data, including topography, gravity, magnetics, geological maps, hydrological data and more. These are all generally behind Open Geospatial Consortium-compliant web services, so you can easily slurp then into whatever GIS software you might be using ([QGIS](http://www.qgis.org/en/site/) is an excellent free & open-source option here).
 
 - [**WA Department of Parks and Wildlife**](http://www.dpaw.wa.gov.au/plants-and-animals/other-databases) also have a bunch of data related to threatened species and environments, obviously with a WA focus. Most of these are available through SLIP.
 
